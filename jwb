@@ -1,0 +1,8 @@
+Untuk melakukan proses pengujian yang baik dan benar, langkah-langkahnya adalah sebagai berikut:
+
+1. Menyelesaikan program yang akan diuji.
+2. Membuat manual testing dengan skenario pengujian yang jelas.
+3. Melakukan pengujian dengan menjalankan program.
+4. Membandingkan hasil pengujian dengan ekspektasi dari manual testing.
+5. Mengidentifikasi dan memperbaiki kesalahan atau bug yang ditemukan.
+6. Mencatat hasil pengujian untuk evaluasi dan referensi ke depan.
