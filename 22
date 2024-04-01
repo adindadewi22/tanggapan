@@ -1,0 +1,15 @@
+1. Identifikasi dan buat daftar kasus uji.
+
+2. Persiapkan data uji yang sesuai.
+
+3. Eksekusi kasus uji dan perhatikan keluaran program.
+
+4. Verifikasi hasil dengan hasil yang diharapkan.
+
+5. Ulangi langkah 3 dan 4 untuk semua kasus uji.
+
+6. Perbaiki program dan ulangi pengujian jika diperlukan.
+
+7. Catat hasil pengujian, termasuk kasus uji yang berhasil dan gagal.
+
+8. Gunakan alat pengujian otomatis jika memungkinkan.
